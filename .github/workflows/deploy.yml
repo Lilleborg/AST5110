@@ -23,6 +23,7 @@ jobs:
       run: |
         pip install -U jupyter-book
         pip install -U jsonschema[format-nongpl]
+        pip install -U import-ipynb
         pip freeze --all --no-input
 
     - name: Build
