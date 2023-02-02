@@ -26,7 +26,7 @@ parts:
     chapters:
     - file: ex_1a_v0.5
     - file: ex_1b_ext
-    - file: ex_1b_v1.5
+    - file: ex_1b_v1_5
     - file: ex_2a_analytical
     - file: ex_2b
     - file: ex_3a
